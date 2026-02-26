@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/Day_7/Day_7.iml" filepath="$PROJECT_DIR$/Day_7/Day_7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day_8/Day_8.iml" filepath="$PROJECT_DIR$/Day_8/Day_8.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day_9Array/Day_9Array.iml" filepath="$PROJECT_DIR$/Day_9Array/Day_9Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked List/Linked List.iml" filepath="$PROJECT_DIR$/Linked List/Linked List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String_checking/String_checking.iml" filepath="$PROJECT_DIR$/String_checking/String_checking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day2_2026/day2_2026.iml" filepath="$PROJECT_DIR$/day2_2026/day2_2026.iml" />
     </modules>
   </component>
 </project>
